@@ -8,8 +8,8 @@ The project is created using Google Colaboratory ,which allows anybody to write 
 and uses hosted Jupyter Notebooks.
 
 
-The website used is imdb and the first page of the website is  used in this project which can be found below
-**Webpage link**-(https://www.imdb.com/list/ls050745379/)
+The website used is imdb and the first page of the website is  used in this project which can be found here
+ -(https://www.imdb.com/list/ls050745379/)
 The website contains a list of 75 actors, their images and other information.
 
 The information about the actors  has been stored in a tabular format in a .csv file named actors.csv
