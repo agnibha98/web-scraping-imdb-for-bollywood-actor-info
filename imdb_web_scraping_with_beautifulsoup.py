@@ -23,10 +23,10 @@ uClient.close()
 #parse the html
 page_soup=soup(page_html,"html.parser")
 
-#grabs each actor's whole details
+#grabs each actor's entire details
 containers1=page_soup.findAll("div",{"class":"lister-item mode-detail"})
 
-#lets see the number of actor's it finds
+#lets see the number of actors it finds
 print(len(containers1))
 
 #let us see the html elements inside each container
